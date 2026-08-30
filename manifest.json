@@ -1,0 +1,12 @@
+{
+  "display_name": "FoundryVTT to SillyTavern NHP Uplink",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "masterevan27",
+  "version": "0.1.7",
+  "homePage": "https://github.com/masterevan27/foundryvtt-to-sillytavern-nhp-uplink",
+  "auto_update": true
+}
